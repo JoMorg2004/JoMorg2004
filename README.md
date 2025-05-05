@@ -1,7 +1,7 @@
 # Hello, I'm Jordan!
 <a href="/linkedin.com/in/jmorg04"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with both Master's and Bachelor's degrees in cybersecurity, with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate with both Master's and Bachelor's degrees in cybersecurity, with a profound interest in technology and a dedication to problem solving
 
 ## Objective
 My journey in technology has led me to develop a passion for all things cybersecurity, and I am now eager to break into into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
