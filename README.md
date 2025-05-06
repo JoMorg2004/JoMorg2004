@@ -10,8 +10,8 @@ My journey in technology has led me to develop a passion for all things cybersec
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python Scripting                 | <a href="https://github.com/JoMorg2004/Simple-Python-Port-Scanner">Python Port Scanner</a>|
-| Test                 | <a href="https://google.com">Test</a>|
+| Python Scripting                 | <a href="https://github.com/JoMorg2004/Simple-Python-Port-Scanner">Port Scanner</a>|
+| Password Generator               | <a href="https://github.com/JoMorg2004/Python-Password-Gen">Password Generator</a>|
 | Test                 | Test |
 | Test                 | Test |
 | Test                 | Test |
@@ -59,4 +59,4 @@ My journey in technology has led me to develop a passion for all things cybersec
 
 ## Projects 
 - <a href="https://github.com/JoMorg2004/Simple-Python-Port-Scanner">Python Port Scanner</a>
-- Test
+- <a href="https://github.com/JoMorg2004/Python-Password-Gen">Python Password Generator</a>
