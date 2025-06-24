@@ -6,12 +6,12 @@ I am a recent graduate with both Master's and Bachelor's degrees in cybersecurit
 ## Objective
 My journey in technology has led me to develop a passion for all things cybersecurity, and I am now eager to break into into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+## Programming/ Scripting Projects
 
-| Skill                                         | Associated Project         |
+| Language                                      | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python Scripting                 | <a href="https://github.com/JoMorg2004/Simple-Python-Port-Scanner">Port Scanner</a> <br><a href="https://github.com/JoMorg2004/Python-Password-Gen">Password Generator</a>|
-| BASH Scripting                   | <a href="https://github.com/JoMorg2004/Bash-Cyber-Toolkit/tree/main"> BASH Cyber Toolkit </a> |
+| Python                  | <a href="https://github.com/JoMorg2004/Simple-Python-Port-Scanner">Port Scanner</a> <br><a href="https://github.com/JoMorg2004/Python-Password-Gen">Password Generator</a>|
+| BASH                    | <a href="https://github.com/JoMorg2004/Bash-Cyber-Toolkit/tree/main"> BASH Cyber Toolkit </a> |
 | Test                 | Test |
 | Test                 | Test |
 | Test                 | Test |
@@ -19,23 +19,28 @@ My journey in technology has led me to develop a passion for all things cybersec
 
 ## Tools I Use
 
-
-### Network
+### Operating Systems
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff" />
 </div>
 
-### Endpoint
+### Networking
 <div>
-   
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/NMAP-skyblue?style=flat&logoSize=auto" />
 </div>
 
 ### SIEM
 <div>
-
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-   
 </div>
+
+## Cloud
+<div>
+
+</div>
+
 
 ## Certifications
 
