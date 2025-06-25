@@ -59,6 +59,7 @@ My journey in technology has led me to develop a passion for all things cybersec
 - <a href="https://github.com/JoMorg2004/Simple-Python-Port-Scanner">Python Port Scanner</a>
 - <a href="https://github.com/JoMorg2004/Python-Password-Gen">Python Password Generator</a>
 - <a href="https://github.com/JoMorg2004/Bash-Cyber-Toolkit/tree/main"> BASH Cyber Toolkit </a>
+- <a href="https://github.com/JoMorg2004/PSPortScanner"> PowerShell Port Scanner </a>
 
 
 ## Homelab
