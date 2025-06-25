@@ -28,7 +28,7 @@ My journey in technology has led me to develop a passion for all things cybersec
 ### Networking
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/NMAP-skyblue?&style=for-the-badge&style=flat&logoSize=auto" />
+    <img src="https://img.shields.io/badge/NMAP-skyblue?&style=for-the-badge&logoSize=auto" />
 </div>
 
 ### SIEM
