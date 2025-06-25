@@ -21,14 +21,14 @@ My journey in technology has led me to develop a passion for all things cybersec
 
 ### Operating Systems
 <div>
-    <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?&style=for-the-badge&logo=windows11&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=fff" />
 </div>
 
 ### Networking
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/NMAP-skyblue?style=flat&logoSize=auto" />
+    <img src="https://img.shields.io/badge/NMAP-skyblue?&style=for-the-badge&style=flat&logoSize=auto" />
 </div>
 
 ### SIEM
