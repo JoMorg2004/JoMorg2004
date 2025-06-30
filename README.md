@@ -23,6 +23,7 @@ My journey in technology has led me to develop a passion for all things cybersec
 <div>
     <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?&style=for-the-badge&logo=windows11&logoColor=white" />
     <img src="https://img.shields.io/badge/Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=fff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Windows Server-0078D6?&style=for-the-badge&logo=windows11&logoColor=white" />
 </div>
 
 ### Networking
